@@ -20,8 +20,8 @@ export default function Footer() {
           <Link href="/">{siteMetadata.title}</Link>
         </div>
         <div className="mb-8 text-sm text-gray-500 dark:text-gray-400">
-          <a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer">
-            浙ICP备17007919号-1
+          <a href="#" target="_blank" rel="noreferrer">
+            {/*浙ICP备17007919号-1*/}
           </a>
         </div>
       </div>
