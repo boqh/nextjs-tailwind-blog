@@ -14,4 +14,25 @@ layout: PostLayout
 
 ## Hello World!
 
-my first blog
+You don't have to be great to start, but you have to start to be great.
+                                                                    *-- Zig Ziglar*
+
+
+
+If you cannot do great things, do small things in a great way.
+                                                                    *-- Napoleon Hill*
+
+
+
+Great things are done by a series of small things brought together.
+                                                                    *-- Vincent Van Gogh*
+
+
+
+Anyone who has never made a mistake has never tried anything new.
+                                                                    *-- Albert Einstein*
+
+
+
+Life is like riding a bicycle. To keep your balance, you must keep moving.
+                                                                    *-- Albert Einstein*
